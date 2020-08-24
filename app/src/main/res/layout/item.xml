@@ -2,7 +2,7 @@
 <android.support.v7.widget.CardView
     android:layout_margin="5dp"
     app:cardCornerRadius="10dp"
-    app:cardBackgroundColor="@android:color/black"
+    app:cardBackgroundColor="#9C27B0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
@@ -14,7 +14,7 @@
         android:layout_height="wrap_content">
     <TextView
         android:layout_margin="5dp"
-        android:textColor="@android:color/white"
+        android:textColor="#FFFFFF"
         android:textSize="25dp"
         android:text="Title"
         android:id="@+id/title"
